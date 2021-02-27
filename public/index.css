@@ -19,7 +19,7 @@ body {
   display: flex;
   align-items: center;
   height: 100vh;
-  background-color: blue;
+  background-color: rgba(207, 171, 171, 0.8)
 }
 
 /* .section0 {
